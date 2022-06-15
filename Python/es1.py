@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Nene @ 2022-06-15
+# Irene @ 2022-06-15
 #Scrivi una funzione che prende due numeri come parametro e manda in print il più grande tra i due.
 #Per quanto Python disponga di una funzione max(), sei invitato a utilizzare le istruzioni If, Elif ed Else per la scrittura dell'algoritmo.
 
